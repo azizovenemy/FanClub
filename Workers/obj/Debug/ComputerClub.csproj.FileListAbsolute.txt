@@ -1,0 +1,7 @@
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\bin\Debug\Workers.exe.config
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\bin\Debug\Workers.exe
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\bin\Debug\Workers.pdb
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\obj\Debug\ComputerClub.csproj.AssemblyReference.cache
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\obj\Debug\ComputerClub.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\obj\Debug\Workers.exe
+C:\Users\Pavel Budrin\source\repos\Workers\Workers\obj\Debug\Workers.pdb
